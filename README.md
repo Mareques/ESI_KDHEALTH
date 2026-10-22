@@ -1,4 +1,4 @@
-# ESI_ECOMMERCE
+# ESI_KDHEALTH
 
 Projeto de grupo desenvolvido no âmbito da disciplina de **Engenharia de Software 1** – Instituto Piaget.
 
