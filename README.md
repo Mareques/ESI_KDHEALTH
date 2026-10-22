@@ -10,7 +10,7 @@ Aplicação web / website de e-commerce desenvolvido em grupo.
 
 ## Equipa
 
-- **Fábio** ([@Fabinsky-pro](https://github.com/Fabinsky-pro))
+- **Kevin** ([@kappa-30](https://github.com/kappa-30))
 - **Diogo** ([@Mareques](https://github.com/Mareques))
 
 ## Tecnologias
