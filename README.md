@@ -38,3 +38,6 @@ Estamos a utilizar o **GitHub Projects** (quadro Kanban) para organizar as taref
 ## Como correr o projeto
 
 *(Será preenchido quando o projeto tiver código)*
+
+```bash
+# instruções de instalação e execução
