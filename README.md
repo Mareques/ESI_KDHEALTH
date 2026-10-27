@@ -4,7 +4,7 @@ Projeto de grupo desenvolvido no âmbito da disciplina de **Engenharia de Softwa
 
 ## Descrição
 
-Aplicação web / website de e-commerce desenvolvido em grupo.
+Aplicação web / website de e-commerce de produtos de saude desenvolvido em grupo.
 
 > ⚠️ Projeto ainda em fase de definição da ideia e funcionalidades.
 
@@ -23,7 +23,7 @@ Aplicação web / website de e-commerce desenvolvido em grupo.
 
 Estamos a utilizar o **GitHub Projects** (quadro Kanban) para organizar as tarefas do projeto.
 
-🔗 **Quadro Kanban:** *(adicionar aqui o link do Project depois de criado)*
+🔗 **[Quadro Kanban](https://github.com/users/Mareques/projects/3/views/1)**
 
 ### Colunas do quadro
 
