@@ -42,11 +42,16 @@ Lojas farmacêuticas.
 
 **Lista de funcionalidades:**
 
-| # | Funcionalidade | Estado |
-|---|---|---|
-| 1 | *(a preencher pela equipa)* | A definir |
-| 2 | *(a preencher pela equipa)* | A definir |
-| 3 | *(a preencher pela equipa)* | A definir |
+| # | Funcionalidade | Como ajuda | Estado |
+|---|---|---|---|
+| 1 | Registo e login simples | Poucos campos e mensagens de erro claras | Planeado |
+| 2 | Catálogo por categorias (medicamentos sem receita, ajudas de mobilidade, higiene) | Encontrar o que precisam sem ter de pesquisar | Planeado |
+| 3 | Pesquisa que tolera erros de escrita | Quem escreve devagar ou com dificuldade ainda encontra o produto | Planeado |
+| 4 | Carrinho e compra em poucos passos | Menos ecrãs, menos hipóteses de desistir ou errar | Planeado |
+| 5 | Entrega ao domicílio com morada guardada | Não precisam de sair de casa | Planeado |
+| 6 | Botões para aumentar e diminuir o tamanho da letra | Ajuda quem tem problemas de visão | Planeado |
+| 7 | Interface simplificada: botões grandes, texto claro, uma ação por ecrã | Ajuda quem tem dificuldade com tecnologia ou tremor nas mãos | Planeado |
+| 8 | Área de administração: gerir produtos, stock e estado das encomendas | A loja precisa disto para funcionar | Planeado |
 
 ---
 
