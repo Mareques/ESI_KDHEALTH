@@ -1,16 +1,74 @@
-Objetivo - Uma farmácia virtual  
+# 📄 Documento de Visão — ESI-KDHEALTH
 
-(b) Escopo - lojas farmacêuticas 
+> **Disciplina:** Engenharia de Software I · Instituto Piaget
+> **Projeto:** Farmácia virtual
 
-(c) Partes interessadas (stakeholders) - Pessoas de mobilidade reduzida e idosas encomendar os seus devidos medicamentos de modo mais fácil 
+---
 
-(d) Equipe do projeto - Diogo Marques e Kevin Rosa 
+## (a) 🎯 Objetivo
 
-(e) Características do sistema – Tem uma fácil interpretação que facilita a experiência do utilizador 
+Desenvolver uma **farmácia virtual**: uma aplicação web que permite encomendar medicamentos e produtos de saúde online.
 
-(f) Arquitetura de Referência - desnho indicando componente
+---
 
-(g) Restrições do produto - Falhas técnicas a nível de código, pois ser a primeira vez a trabalhar com o GitHub 
+## (b) 🌍 Escopo
 
-(h) Integração LLM - Como pretende usar o LLM(Opcional)
+Lojas farmacêuticas.
 
+---
+
+## (c) 👥 Partes interessadas (stakeholders)
+
+| Quem | Como beneficia |
+|---|---|
+| **Pessoas com mobilidade reduzida** | Podem encomendar os medicamentos de que necessitam de forma mais fácil, sem se deslocarem |
+| **Pessoas idosas** | Podem encomendar os medicamentos de que necessitam de forma mais fácil |
+| **Lojas farmacêuticas** | Passam a ter um canal de venda online |
+
+---
+
+## (d) 🧑‍💻 Equipa do projeto
+
+| Nome | GitHub |
+|---|---|
+| Diogo Marques | [@Mareques](https://github.com/Mareques) |
+| Kevin Rosa | [@kappa-30](https://github.com/kappa-30) |
+
+---
+
+## (e) ⚙️ Características do sistema
+
+**Característica principal:** interface de fácil interpretação, que facilita a experiência do utilizador.
+
+**Lista de funcionalidades:**
+
+| # | Funcionalidade | Estado |
+|---|---|---|
+| 1 | *(a preencher pela equipa)* | A definir |
+| 2 | *(a preencher pela equipa)* | A definir |
+| 3 | *(a preencher pela equipa)* | A definir |
+
+---
+
+## (f) 🏗️ Arquitetura de referência
+
+Esquema **provisório** (as tecnologias ainda estão por definir):
+
+```mermaid
+flowchart LR
+    U["👤 Utilizador<br/>(browser)"] --> W["🌐 Aplicação Web"]
+    W --> D[("🗄️ Base de Dados")]
+    W -.->|opcional| L["🤖 LLM"]
+```
+
+---
+
+## (g) ⚠️ Restrições do produto
+
+- **Falhas técnicas a nível de código**, por ser a primeira vez que a equipa trabalha com o GitHub.
+
+---
+
+## (h) 🤖 Integração LLM *(opcional)*
+
+A definir pela equipa.
