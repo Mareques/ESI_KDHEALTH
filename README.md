@@ -1,25 +1,27 @@
-# ESI_KDHEALTH
+# 💊 ESI_KDHEALTH
 
-Projeto de grupo desenvolvido no âmbito da disciplina de **Engenharia de Software 1** – Instituto Piaget.
+Projeto de grupo desenvolvido no âmbito da disciplina de **Engenharia de Software I** – Instituto Piaget.
 
-## Descrição
+## 📝 Descrição
 
-Aplicação web / website de e-commerce de produtos de saude desenvolvido em grupo.
+Aplicação web de **farmácia virtual** (e-commerce de produtos de saúde), pensada para facilitar a encomenda de medicamentos a pessoas idosas e com mobilidade reduzida.
 
-> ⚠️ Projeto ainda em fase de definição da ideia e funcionalidades.
+> ⚠️ Projeto ainda em fase de definição das funcionalidades.
 
-## Equipa
+📄 Documento de Visão: [`docs/docvisao.md`](docs/docvisao.md)
 
-- **Kevin** ([@kappa-30](https://github.com/kappa-30))
-- **Diogo** ([@Mareques](https://github.com/Mareques))
+## 👥 Equipa
 
-## Tecnologias
+| Nome | GitHub |
+|---|---|
+| **Diogo Marques** | [@Mareques](https://github.com/Mareques) |
+| **Kevin Rosa** | [@kappa-30](https://github.com/kappa-30) |
+
+## 🛠️ Tecnologias
 
 *(A definir)*
 
--
-
-## Planeamento (Kanban)
+## 📋 Planeamento (Kanban)
 
 Estamos a utilizar o **GitHub Projects** (quadro Kanban) para organizar as tarefas do projeto.
 
@@ -35,9 +37,10 @@ Estamos a utilizar o **GitHub Projects** (quadro Kanban) para organizar as taref
 | **Review** | Em revisão |
 | **Done** | Concluído |
 
-## Como correr o projeto
+## ▶️ Como correr o projeto
 
 *(Será preenchido quando o projeto tiver código)*
 
 ```bash
 # instruções de instalação e execução
+```
