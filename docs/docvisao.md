@@ -74,7 +74,7 @@ Esquema **provisório** (as tecnologias ainda estão por definir):
 flowchart LR
     U["👤 Utilizador<br/>(browser)"] --> W["🌐 Aplicação Web"]
     W --> D[("🗄️ Base de Dados")]
-    W -.->|opcional| L["🤖 LLM"]
+    W -.->|opcional| L["🤖 Claude (API)"]
 ```
 
 | Componente | Função |
@@ -82,7 +82,7 @@ flowchart LR
 | Utilizador (browser) | Interface com o cliente e com o administrador da loja |
 | Aplicação Web | Lógica do sistema: contas, catálogo, carrinho e encomendas |
 | Base de Dados | Guarda utilizadores, produtos, stock e encomendas |
-| LLM (opcional) | Assistente de apoio ao cliente (ver secção h) |
+| Claude (opcional) | Assistente de apoio ao cliente, acedido por API (ver secção h) |
 
 ---
 
@@ -96,12 +96,12 @@ Situações que levam o sistema a não funcionar corretamente:
 - Se o stock não for atualizado, podem ser aceites encomendas de produtos que já não existem.
 - Se a informação dos produtos (descrição, medidas, preço) estiver incorreta ou incompleta, o cliente pode escolher equipamento inadequado.
 - Nesta versão só são contemplados medicamentos sem receita médica.
-- A funcionalidade com LLM depende de o Ollama estar instalado e em execução.
+- A funcionalidade com LLM depende de ligação à internet e de uma chave de API do Claude válida; sem elas, o assistente fica indisponível (o resto da loja continua a funcionar).
 
 ---
 
 ## (h) 🤖 Integração LLM *(opcional)*
 
-**Proposta, a confirmar pela equipa:** um assistente de apoio ao cliente, executado localmente com o Ollama, que ajuda o utilizador a encontrar o equipamento adequado. O utilizador descreve a sua necessidade em linguagem natural (por exemplo, "preciso de ajuda para me levantar da cama") e o assistente sugere categorias ou produtos do catálogo.
+**Proposta, a confirmar pela equipa:** um assistente de apoio ao cliente que usa o **Claude** (da Anthropic), acedido através da API, para ajudar o utilizador a encontrar o equipamento adequado. O utilizador descreve a sua necessidade em linguagem natural (por exemplo, "preciso de ajuda para me levantar da cama") e o assistente sugere categorias ou produtos do catálogo.
 
-O assistente apenas sugere produtos do catálogo e não dá aconselhamento médico. Será implementado só depois de concluídas as funcionalidades essenciais.
+O assistente apenas sugere produtos do catálogo e não dá aconselhamento médico. Não são enviados à API dados pessoais dos clientes (nome, morada, encomendas), apenas a pergunta sobre produtos. A chave da API fica fora do repositório. Será implementado só depois de concluídas as funcionalidades essenciais.
