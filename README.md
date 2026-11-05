@@ -1,31 +1,46 @@
-# 💊 ESI_KDHEALTH
+# ESI_KDHEALTH
 
 Projeto de grupo desenvolvido no âmbito da disciplina de **Engenharia de Software I** – Instituto Piaget.
 
-## 📝 Descrição
+## Descrição
 
-Aplicação web de **farmácia virtual** (e-commerce de produtos de saúde), pensada para facilitar a encomenda de medicamentos a pessoas idosas e com mobilidade reduzida.
+O **KDHEALTH** é uma aplicação web (website de e-commerce) especializada na venda de **equipamento de apoio à mobilidade**, dirigida a pessoas com mobilidade reduzida e a idosos. Permite encomendar, a partir de casa, equipamentos como cadeiras de rodas, andarilhos e bengalas, bem como produtos de saúde e medicamentos sem receita.
 
-> ⚠️ Projeto ainda em fase de definição das funcionalidades.
+O objetivo é que estas pessoas consigam escolher e receber o que precisam de forma simples, com uma interface clara, de fácil leitura e utilização.
 
-📄 Documento de Visão: [`docs/docvisao.md`](docs/docvisao.md)
+📄 Mais detalhes no [Documento de Visão](docs/docvisao.md).
 
-## 👥 Equipa
+> ⚠️ Projeto em desenvolvimento: as funcionalidades estão em fase de definição.
 
-| Nome | GitHub |
-|---|---|
-| **Diogo Marques** | [@Mareques](https://github.com/Mareques) |
-| **Kevin Rosa** | [@kappa-30](https://github.com/kappa-30) |
+## Equipa
 
-## 🛠️ Tecnologias
+- **Kevin** ([@kappa-30](https://github.com/kappa-30))
+- **Diogo** ([@Mareques](https://github.com/Mareques))
+
+## Tecnologias
 
 *(A definir)*
 
-## 📋 Planeamento (Kanban)
+## Estado do projeto
+
+Seguimos o processo de desenvolvimento da disciplina:
+
+- [x] Repositório, projeto GitHub e participantes
+- [x] README
+- [x] Documento de Visão (`docs/docvisao.md`)
+- [ ] User Stories
+- [ ] Protótipos de UX
+- [ ] Modelo de Casos de Uso
+- [ ] Modelo de Classes
+- [ ] Implementação
+- [ ] Testes unitários e testes de aceitação
+- [ ] Retrospetiva e relatório final
+
+## Planeamento (Kanban)
 
 Estamos a utilizar o **GitHub Projects** (quadro Kanban) para organizar as tarefas do projeto.
 
-🔗 **[Quadro Kanban](https://github.com/users/Mareques/projects/3/views/1)**
+🔗 [**Quadro Kanban**](https://github.com/users/Mareques/projects/3/views/1)
 
 ### Colunas do quadro
 
@@ -37,7 +52,7 @@ Estamos a utilizar o **GitHub Projects** (quadro Kanban) para organizar as taref
 | **Review** | Em revisão |
 | **Done** | Concluído |
 
-## ▶️ Como correr o projeto
+## Como correr o projeto
 
 *(Será preenchido quando o projeto tiver código)*
 
