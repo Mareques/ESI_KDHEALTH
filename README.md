@@ -19,7 +19,17 @@ O objetivo é que estas pessoas consigam escolher e receber o que precisam de fo
 
 ## Tecnologias
 
-*(A definir)*
+| Área | Ferramenta |
+|---|---|
+| Linguagem e framework | Python + Django |
+| Base de dados | SQLite |
+| Interface (frontend) | HTML, CSS e Bootstrap |
+| Controlo de versões | Git e GitHub |
+| Planeamento | GitHub Projects (Kanban) |
+| Protótipos de UX | Figma |
+| Diagramas (casos de uso e classes) | draw.io / Mermaid |
+| Editor de código | Visual Studio Code |
+| LLM (opcional) | Ollama (a confirmar) |
 
 ## Estado do projeto
 
@@ -28,7 +38,7 @@ Seguimos o processo de desenvolvimento da disciplina:
 - [x] Repositório, projeto GitHub e participantes
 - [x] README
 - [x] Documento de Visão (`docs/docvisao.md`)
-- [x] User Stories
+- [ ] User Stories
 - [ ] Protótipos de UX
 - [ ] Modelo de Casos de Uso
 - [ ] Modelo de Classes
