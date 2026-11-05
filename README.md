@@ -26,10 +26,9 @@ O objetivo é que estas pessoas consigam escolher e receber o que precisam de fo
 | Interface (frontend) | HTML, CSS e Bootstrap |
 | Controlo de versões | Git e GitHub |
 | Planeamento | GitHub Projects (Kanban) |
-| Protótipos de UX | Figma |
-| Diagramas (casos de uso e classes) | draw.io / Mermaid |
+| Protótipos de UX | Figma |  
+| Diagramas (casos de uso e classes) | Mermaid |
 | Editor de código | Visual Studio Code |
-| LLM (opcional) | Ollama (a confirmar) |
 
 ## Estado do projeto
 
