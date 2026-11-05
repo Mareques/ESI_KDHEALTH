@@ -19,16 +19,18 @@ O objetivo é que estas pessoas consigam escolher e receber o que precisam de fo
 
 ## Tecnologias
 
-| Área | Ferramenta |
-|---|---|
-| Linguagem e framework | Python + Django |
-| Base de dados | SQLite |
-| Interface (frontend) | HTML, CSS e Bootstrap |
-| Controlo de versões | Git e GitHub |
-| Planeamento | GitHub Projects (Kanban) |
-| Protótipos de UX | Figma |  
-| Diagramas (casos de uso e classes) | Mermaid |
-| Editor de código | Visual Studio Code |
+| Área | Ferramenta | Para que serve |
+|---|---|---|
+| Linguagem e framework | Python + Django | Lógica da loja, contas de utilizador e área de administração |
+| Base de dados | SQLite | Guardar utilizadores, produtos, stock e encomendas |
+| Interface (frontend) | HTML, CSS e Bootstrap | Páginas com botões grandes e adaptadas a telemóvel e computador |
+| Testes | Django TestCase | Testes unitários |
+| Controlo de versões | Git e GitHub | Código partilhado entre a equipa |
+| Planeamento | GitHub Projects (Kanban) | Organizar as tarefas |
+| Protótipos de UX | Figma | Desenhar os ecrãs antes de programar |
+| Diagramas | draw.io / Mermaid | Casos de uso e modelo de classes |
+| Editor de código | Visual Studio Code | Escrever e testar o código |
+| LLM (opcional) | Claude (Anthropic), via API | Assistente que ajuda o cliente a encontrar o equipamento adequado |
 
 ## Estado do projeto
 
@@ -37,7 +39,7 @@ Seguimos o processo de desenvolvimento da disciplina:
 - [x] Repositório, projeto GitHub e participantes
 - [x] README
 - [x] Documento de Visão (`docs/docvisao.md`)
-- [x] User Stories
+- [ ] User Stories
 - [ ] Protótipos de UX
 - [ ] Modelo de Casos de Uso
 - [ ] Modelo de Classes
