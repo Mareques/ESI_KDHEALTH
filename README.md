@@ -38,7 +38,7 @@ Seguimos o processo de desenvolvimento da disciplina:
 - [x] Repositório, projeto GitHub e participantes
 - [x] README
 - [x] Documento de Visão (`docs/docvisao.md`)
-- [ ] User Stories
+- [x] User Stories
 - [ ] Protótipos de UX
 - [ ] Modelo de Casos de Uso
 - [ ] Modelo de Classes
